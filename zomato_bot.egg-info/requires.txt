@@ -3,5 +3,4 @@ notebook
 ipywidgets
 tqdm
 python-dotenv
-openai
--e .
+langchain-google-genai
